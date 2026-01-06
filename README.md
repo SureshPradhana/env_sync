@@ -33,7 +33,7 @@ Requires a Unix-like system (Linux or macOS), Bash, and Git. (WSL is required on
 
 ```bash
 mkdir -p ~/.local/bin
-curl -fsSL https://raw.githubusercontent.com/microcoretech/env_sync/main/envm -o ~/.local/bin/envm
+curl -fsSL https://raw.githubusercontent.com/SureshPradhana/env_sync/main/envm -o ~/.local/bin/envm
 chmod +x ~/.local/bin/envm
 envm --help
 ```
